@@ -2,6 +2,7 @@
   "name": "farmer-enterprise-app",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://harshit-dev-007.github.io/Bharat-krishi-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
